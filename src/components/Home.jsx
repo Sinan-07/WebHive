@@ -12,7 +12,7 @@ const Home = () => {
     <>
       <div className="home" id="home">
         <main>
-          <h1>TechyStar</h1>
+          <h1>WebHive</h1>
           <p>Solution to all your problems</p>
         </main>
       </div>
@@ -33,20 +33,15 @@ const Home = () => {
         <div>
           <h1>Who we are?</h1>
           <p>
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Blanditiis
-            officiis hic illo quos sit commodi, aut magnam odio eligendi? Totam
-            quis officiis fugit sunt dolores nostrum tenetur iusto est odio
-            mollitia. Dolor placeat repellendus officia aspernatur dolorum
-            harum. Dolorem cumque quaerat eius qui deserunt ullam laudantium
-            quia tempore. Dignissimos esse sequi numquam est ipsam nemo,
-            voluptas vel recusandae iste aspernatur qui quasi, commodi, atque
-            ipsa dolores tempore asperiores? Dolores soluta placeat molestiae
-            aperiam, ullam officia fugiat corrupti odio, suscipit ipsum cum vel
-            nemo. Ratione quo tempore fugit quaerat! Facilis beatae impedit
-            similique maxime praesentium sunt unde necessitatibus voluptates
-            ipsa, et, numquam reiciendis eveniet? Aliquid nemo nesciunt placeat,
-            qui fuga quae repellat sunt, non natus, iure ab officia rem ipsa cum
-            sed cumque corporis voluptate quibusdam nostrum quod saepe
+          At WebHive, we are a passionate team of tech enthusiasts who are dedicated to providing innovative solutions to everyday tech challenges. Our mission is to empower the next generation of problem solvers by fostering a love for technology and problem-solving in children.
+
+With a focus on excellence, we strive to create products and services that make a positive impact on people's lives. Our experienced team works tirelessly to ensure that our offerings are of the highest quality and deliver an exceptional user experience.
+
+Our core values of integrity, creativity, and collaboration drive everything we do. We believe in building a strong community where knowledge sharing and learning are at the heart of our endeavors.
+
+Whether it's developing cutting-edge software, organizing tech workshops, or supporting educational institutions, we are committed to making a difference.
+
+Join us on this exciting journey as we explore the limitless possibilities of technology and inspire the tech leaders of tomorrow.
           </p>
         </div>
       </div>
