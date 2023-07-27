@@ -7,11 +7,11 @@ const Header = () => {
     <nav>
       <h1>WebHive.</h1>
       <main>
-        <HashLink to={"/#home"}>Home</HashLink>
-        <Link to={"/contact"}>Contact</Link>
-        <HashLink to={"/#about"}>About</HashLink>
-        <HashLink to={"/#brands"}>Brands</HashLink>
-        <Link to={"/services"}>Services</Link>
+        <HashLink to={"/WebHive/#home"}>Home</HashLink>
+        <Link to={"/WebHive/contact"}>Contact</Link>
+        <HashLink to={"/WebHive/#about"}>About</HashLink>
+        <HashLink to={"/WebHive/#brands"}>Brands</HashLink>
+        <Link to={"/WebHive/services"}>Services</Link>
       </main>
     </nav>
   );
